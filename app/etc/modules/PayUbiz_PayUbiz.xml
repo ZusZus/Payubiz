@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- 
+config.xml  
+@author     Payubiz
+@copyright  2011-2017 PayU India
+@license    http://www.opensource.org/licenses/lgpl-license.php LGPL
+@link       http://www.payu.in
+@category   PayUbiz
+@package    PayUbiz
+-->
+<config>
+	<modules>
+		<PayUbiz_PayUbiz>
+			<active>true</active>
+			<codePool>community</codePool>
+		</PayUbiz_PayUbiz>
+	</modules>
+</config>
